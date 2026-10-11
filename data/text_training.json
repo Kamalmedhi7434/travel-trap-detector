@@ -1,0 +1,50 @@
+{
+  "hidden charges": [
+    "extra charge added after the ride",
+    "bill had hidden parking fees",
+    "price changed at the end",
+    "unexpected tax not in the quote",
+    "charged extra for luggage",
+    "room total had undisclosed fees",
+    "menu price different from final bill",
+    "asked to pay waiting charges not agreed",
+    "undisclosed service fee was added",
+    "entry fee excluded from quoted price"
+  ],
+  "payment pressure": [
+    "demanded cash immediately before details",
+    "pressured me to pay advance now",
+    "would not let me compare prices",
+    "urgent deposit required without receipt",
+    "insisted on instant payment",
+    "said pay now or lose booking",
+    "rushed me to hand over money",
+    "demanded advance before seeing the room",
+    "refused time to check the total",
+    "pushy payment request before confirmation"
+  ],
+  "diversion": [
+    "driver took us to an unrequested shop",
+    "said destination closed and sold another tour",
+    "guide redirected us to a commission store",
+    "changed route without asking",
+    "took a long detour to a shop",
+    "insisted on another hotel instead",
+    "unwanted shopping stop during trip",
+    "refused the agreed destination",
+    "driver suggested a closed monument and new tour",
+    "drove to another market without permission"
+  ],
+  "positive": [
+    "paid agreed price and got receipt",
+    "helpful guide clear total good experience",
+    "fair price no extra fees",
+    "clean room with all charges explained",
+    "driver followed route and price",
+    "meal matched menu total",
+    "good service transparent pricing",
+    "everything as promised and no pressure",
+    "polite driver and correct destination",
+    "reasonable price and honest service"
+  ]
+}

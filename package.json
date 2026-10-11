@@ -1,0 +1,13 @@
+{
+  "name": "travel-trap-detector",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Development browser tests for the local Python app",
+  "scripts": {
+    "test:ui": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.0"
+  }
+}

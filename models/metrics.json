@@ -1,0 +1,32 @@
+{
+  "data": "SYNTHETIC DEMO ONLY",
+  "seed": 42,
+  "fare_rows": 6720,
+  "fare_test_rows": 1344,
+  "fare_mae_rupees": 211.28,
+  "fare_relative_error_90pct": 0.1653,
+  "risk_rows": 6500,
+  "risk_accuracy": 0.9977,
+  "risk_feature_names": [
+    "quote_ratio",
+    "unclear_extras",
+    "payment_pressure",
+    "diversion",
+    "no_receipt",
+    "complaints",
+    "price_anomaly"
+  ],
+  "risk_feature_importance": [
+    0.6429,
+    0.0254,
+    0.0327,
+    0.0309,
+    0.0331,
+    0.0557,
+    0.1793
+  ],
+  "text_examples": 40,
+  "text_holdout_accuracy": 0.375,
+  "anomaly_training_rows": 1500,
+  "warning": "Synthetic holdout metrics do not measure accuracy on real travellers, real fares or actual scams."
+}

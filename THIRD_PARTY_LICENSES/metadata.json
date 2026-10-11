@@ -1,0 +1,221 @@
+[
+  {
+    "name": "click",
+    "version": "8.5.0",
+    "license": "BSD-3-Clause",
+    "project_urls": [
+      "Changes, https://click.palletsprojects.com/page/changes/",
+      "Chat, https://discord.gg/pallets",
+      "Documentation, https://click.palletsprojects.com/",
+      "Donate, https://palletsprojects.com/donate",
+      "Source, https://github.com/pallets/click/"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/click/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Flask",
+    "version": "3.1.2",
+    "license": "BSD-3-Clause",
+    "project_urls": [
+      "Changes, https://flask.palletsprojects.com/page/changes/",
+      "Chat, https://discord.gg/pallets",
+      "Documentation, https://flask.palletsprojects.com/",
+      "Donate, https://palletsprojects.com/donate",
+      "Source, https://github.com/pallets/flask/"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/Flask/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "blinker",
+    "version": "1.9.0",
+    "license": "",
+    "project_urls": [
+      "Chat, https://discord.gg/pallets",
+      "Documentation, https://blinker.readthedocs.io",
+      "Source, https://github.com/pallets-eco/blinker/"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/blinker/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Werkzeug",
+    "version": "3.1.9",
+    "license": "BSD-3-Clause",
+    "project_urls": [
+      "Changes, https://werkzeug.palletsprojects.com/page/changes/",
+      "Chat, https://discord.gg/pallets",
+      "Documentation, https://werkzeug.palletsprojects.com/",
+      "Donate, https://palletsprojects.com/donate",
+      "Source, https://github.com/pallets/werkzeug/"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/Werkzeug/LICENSE.txt",
+      "THIRD_PARTY_LICENSES/Werkzeug/ICON_LICENSE.md"
+    ]
+  },
+  {
+    "name": "scipy",
+    "version": "1.15.3",
+    "license": "Copyright (c) 2001-2002 Enthought, Inc. 2003-2024, SciPy Developers.\n All rights reserved.\n\n Redistribution and use in source and binary forms, with or without\n modification, are permitted provided th",
+    "project_urls": [
+      "homepage, https://scipy.org/",
+      "documentation, https://docs.scipy.org/doc/scipy/",
+      "source, https://github.com/scipy/scipy",
+      "download, https://github.com/scipy/scipy/releases",
+      "tracker, https://github.com/scipy/scipy/issues"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/scipy/LICENSE.txt",
+      "THIRD_PARTY_LICENSES/scipy/LICENSE",
+      "THIRD_PARTY_LICENSES/scipy/LICENSE.md",
+      "THIRD_PARTY_LICENSES/scipy/COPYING",
+      "THIRD_PARTY_LICENSES/scipy/COPYING.txt"
+    ]
+  },
+  {
+    "name": "joblib",
+    "version": "1.5.2",
+    "license": "BSD 3-Clause",
+    "project_urls": [
+      "Homepage, https://joblib.readthedocs.io",
+      "Source, https://github.com/joblib/joblib"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/joblib/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "waitress",
+    "version": "3.0.2",
+    "license": "ZPL 2.1",
+    "project_urls": [
+      "Documentation, https://docs.pylonsproject.org/projects/waitress/en/latest/index.html",
+      "Changelog, https://docs.pylonsproject.org/projects/waitress/en/latest/index.html#change-history",
+      "Issue Tracker, https://github.com/Pylons/waitress/issues"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/waitress/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "pip",
+    "version": "22.0.2",
+    "license": "MIT",
+    "project_urls": [
+      "Documentation, https://pip.pypa.io",
+      "Source, https://github.com/pypa/pip",
+      "Changelog, https://pip.pypa.io/en/stable/news/"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/pip/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "MarkupSafe",
+    "version": "3.0.4",
+    "license": "BSD-3-Clause",
+    "project_urls": [
+      "Donate, https://palletsprojects.com/donate",
+      "Documentation, https://markupsafe.palletsprojects.com/",
+      "Changes, https://markupsafe.palletsprojects.com/page/changes/",
+      "Source, https://github.com/pallets/markupsafe/",
+      "Chat, https://discord.gg/pallets"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/MarkupSafe/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "numpy",
+    "version": "2.2.6",
+    "license": "Copyright (c) 2005-2024, NumPy Developers.\n All rights reserved.\n\n Redistribution and use in source and binary forms, with or without\n modification, are permitted provided that the following condition",
+    "project_urls": [
+      "homepage, https://numpy.org",
+      "documentation, https://numpy.org/doc/",
+      "source, https://github.com/numpy/numpy",
+      "download, https://pypi.org/project/numpy/#files",
+      "tracker, https://github.com/numpy/numpy/issues",
+      "release notes, https://numpy.org/doc/stable/release"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/numpy/LICENSE.txt",
+      "THIRD_PARTY_LICENSES/numpy/numpy__core_include_numpy_random_LICENSE.txt",
+      "THIRD_PARTY_LICENSES/numpy/LICENSE",
+      "THIRD_PARTY_LICENSES/numpy/LICENSE.md"
+    ]
+  },
+  {
+    "name": "setuptools",
+    "version": "59.6.0",
+    "license": "UNKNOWN",
+    "project_urls": [
+      "Documentation, https://setuptools.pypa.io/"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/setuptools/LICENSE"
+    ]
+  },
+  {
+    "name": "Jinja2",
+    "version": "3.1.6",
+    "license": "",
+    "project_urls": [
+      "Changes, https://jinja.palletsprojects.com/changes/",
+      "Chat, https://discord.gg/pallets",
+      "Documentation, https://jinja.palletsprojects.com/",
+      "Donate, https://palletsprojects.com/donate",
+      "Source, https://github.com/pallets/jinja/"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/Jinja2/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "scikit-learn",
+    "version": "1.7.2",
+    "license": "BSD-3-Clause",
+    "project_urls": [
+      "homepage, https://scikit-learn.org",
+      "source, https://github.com/scikit-learn/scikit-learn",
+      "download, https://pypi.org/project/scikit-learn/#files",
+      "tracker, https://github.com/scikit-learn/scikit-learn/issues",
+      "release notes, https://scikit-learn.org/stable/whats_new"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/scikit-learn/COPYING",
+      "THIRD_PARTY_LICENSES/scikit-learn/LICENSE",
+      "THIRD_PARTY_LICENSES/scikit-learn/sklearn_externals_array_api_extra_LICENSE"
+    ]
+  },
+  {
+    "name": "threadpoolctl",
+    "version": "3.7.0",
+    "license": "BSD-3-Clause",
+    "project_urls": [
+      "homepage, https://github.com/joblib/threadpoolctl"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/threadpoolctl/LICENSE"
+    ]
+  },
+  {
+    "name": "itsdangerous",
+    "version": "2.2.0",
+    "license": "",
+    "project_urls": [
+      "Changes, https://itsdangerous.palletsprojects.com/changes/",
+      "Chat, https://discord.gg/pallets",
+      "Documentation, https://itsdangerous.palletsprojects.com/",
+      "Donate, https://palletsprojects.com/donate",
+      "Source, https://github.com/pallets/itsdangerous/"
+    ],
+    "notice_files": [
+      "THIRD_PARTY_LICENSES/itsdangerous/LICENSE.txt"
+    ]
+  }
+]
